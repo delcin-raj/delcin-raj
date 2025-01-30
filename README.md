@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @delcin-raj
-- 👀 I’m interested in writing software using Rust and functional programming languages.
+- 👀 I’m working on creating educational contents for bitcoin and related technologies.
 - I've created Rust for Bitcoiners course for Chaincode LLC.
 - Project Manager for [Coinselection lib in rust](https://github.com/Bitshala-Incubator/rust-coinselect)
 - 💞️ I’m looking to collaborate on Rust related bitcoin projects.
 - 📫 How to reach me delcinraj@gmail.com
+- My Youtube page https://www.youtube.com/@bitsmaximus
 
 - Consider donating at Lightning stuffypail50@walletofsatoshi.com
 
